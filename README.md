@@ -1,2 +1,2 @@
 # Regression
-Logistic and linear
+Logistic
